@@ -1,2 +1,2 @@
 # pedra-papel-tesoura-java
-Pedra, papel e tesoura feito em Java
+Programa em Java feito por mim mesmo em Agosto de 2019
